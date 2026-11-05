@@ -113,7 +113,15 @@ AI/ML Engineer and **Technical Consultant at HPE**, working on production ML, da
 
 ## Research
 
-Publications in computer vision, deep learning, generative AI and cloud computing. 
+Publications in computer vision, deep learning, generative AI and cloud computing. Selected:
+
+- **Fused multi-level attention features with a constraint fusion network for colorectal tissue classification using histopathological images**, *Computers and Electrical Engineering*, 2025
+- **Generative AI for image classification: a comprehensive review and future directions**, *Procedia Computer Science*, 2025
+- **Reducing the Carbon Footprint of Data Centers: CNN-Transformer-Based Workload Prediction for Green Cloud Computing**, 2025
+- **Towards Smart Waste Sorting: Lightweight CNN with Attention Mechanisms for Enhanced Classification**, 2025
+- **Cloud-Based SaaS Solutions for Predictive Sales Forecasting in E-Commerce**, *WCONF*, 2025
+- **Attention based deep neural network for classification of kidney ailments using CT images**, *ICCCNT*, 2024
+- **Plant disease identification using a dual self-attention modified residual-inception network**, *ICUMT*, 2023
 
 <div align="center">
 <a href="https://scholar.google.com/citations?user=5aJitiMAAAAJ&hl=en"><img src="https://img.shields.io/badge/View%20all%20publications-Google%20Scholar-4F6D9A?style=for-the-badge&logo=googlescholar&logoColor=white" alt="View all publications on Google Scholar"></a>
