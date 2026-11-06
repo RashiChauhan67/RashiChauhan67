@@ -8,6 +8,7 @@
 
 <a href="https://linkedin.com/in/rashi-chauhan-67rc"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F6D9A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://scholar.google.com/citations?user=5aJitiMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-7366A6?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+<a href="https://rashichauhan67.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-View%20site-3F8A86?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:rashichauhan67@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-A8625F?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
